@@ -1,8 +1,8 @@
- product A , product B , product C , product D ,province usa,province iran,product type,price,sale,grows sale,cost,profit ,Satisfaction,Africa percent,Europe percent,Asia percent,North America percent,South America percent,Qceania percent,
-2505037,13256300,6764147,2777199,Arizona,Ardebil,product A,800,294700531.00,5.00%,385,"$122,300,720,365 ",8,5.00%,20.00%,22.00%,40.00%,5.00%,8.00%,100.00%
-2288098,12034827,5371838,1779253,Arkansas,Bushehr,product B,1200,590702324.00,12.00%,987,"$125,819,595,012 ",4.5,4.00%,25.00%,30.00%,35.00%,5.00%,1.00%,100.00%
-9322762,12359197,3363417,1982440,California,Chahar Mahall and Bakhtiari,product C,399,286439973.00,7.90%,150,"$71,323,553,277 ",7,7.00%,28.00%,10.00%,50.00%,4.50%,0.50%,100.00%
-9129405,14965175,4473089,3433781,Colorado,East Azarbaijan,product D,850,100043320.00,21.00%,650,"$20,008,664,000 ",5.6,3.00%,50.00%,20.00%,15.00%,7.00%,5.00%,100.00%
+product A,product B,product C,product D,province usa,province iran,product type,price,sale,grows sale,cost,profit ,Satisfaction,Africa percent,Europe percent,Asia percent,North America percent,South America percent,Qceania percent,
+2505037,13256300,6764147,2777199,Arizona,Ardebil,product A,800,294700531,5.00%,385,"$122,300,720,365 ",8,0.05,0.20,0.22,0.40,0.05,0.08,100.00%
+2288098,12034827,5371838,1779253,Arkansas,Bushehr,product B,1200,590702324,12.00%,987,"$125,819,595,012 ",4.5,0.04,0.25,0.30,0.35,0.05,0.01,100.00%
+9322762,12359197,3363417,1982440,California,Chahar Mahall and Bakhtiari,product C,399,286439973,7.90%,150,"$71,323,553,277 ",7,0.07,0.28,0.10,0.50,0.05,0.01,100.00%
+9129405,14965175,4473089,3433781,Colorado,East Azarbaijan,product D,850,100043320,21.00%,650,"$20,008,664,000 ",5.6,0.03,0.50,0.20,0.15,0.07,0.05,100.00%
 7614040,10382410,1518074,3355729,Connecticut,Esfahan,,,,,,,,,,,,,,
 5634297,9987929,5497293,3031096,District of Columbia,Fars,,,,,,,,,,,,,,
 7857106,12361705,7526431,1407556,Georgia,Gilan,,,,,,,,,,,,,,
