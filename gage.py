@@ -16,6 +16,15 @@ fig = go.Figure(go.Indicator(
                  {'range': [7.5, 10], 'color': "green"}],
              'threshold' : {'line': {'color': "red", 'width': 4}, 'thickness': 0.75, 'value': 8}}))
 
+#                           html.Div(  # --------------------------------------------------------- ROW 2 - col 2 - row 1
+#                              id='Satisfaction_component',
+#                             children=[Satisfaction],
+#                              style={'width': '95%', 'height': '10%', 'backgroundColor': '#800080',
+#                                     'display': 'block',
+#                                     'border-width': ' 1px', 'border-radius': '10px', 'margin': '5px',
+#                                     'padding': '5px'}
+#                          ),
+
 
 app = dash.Dash()
 app.layout = html.Div([
