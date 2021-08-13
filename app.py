@@ -135,9 +135,16 @@ city_map=dcc.Graph(id="city_map")
 )
 def show_city_map(value):
     scatter_map_selected= scatter_map[scatter_map["product"]==value]
-    fig = px.scatter_mapbox(scatter_map_selected, lat="lat", lon="lon",
-                            color_continuous_scale=px.colors.cyclical.IceFire, size_max=15, zoom=10,
-                            mapbox_style="open-street-map", color="sale", size="sale", hover_name="reagon"
+    fig = px.scatter_mapbox(
+                            scatter_map_selected,
+                            lat="lat", lon="lon",
+                            color_continuous_scale=px.colors.cyclical.IceFire,
+                            size_max=30,
+                            zoom=10,
+                            mapbox_style="open-street-map",
+                            color="sale",
+                            size="sale",
+                            hover_name="reagon",
                             )
     fig.update_layout( margin={"r": 0, "t": 0, "l": 0, "b": 0})
 
